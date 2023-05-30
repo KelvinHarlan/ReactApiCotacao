@@ -1,0 +1,9 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+    color: #fff;
+    font-family: sans-serif;
+}
